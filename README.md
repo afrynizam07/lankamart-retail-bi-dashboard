@@ -87,7 +87,7 @@ Physical stores earn LKR 310.6M (66.94%) and online sales LKR 153.42M (33.06%), 
 
 ## 📄 Documentation
 
-- [Project report extract: analysis and findings (docx)](docs/big-data-report-extract.docx)
+- [Project report extract: analysis and findings (docx)](big-data-report-extract.docx)
 
 ## 📂 Repository Contents
 
